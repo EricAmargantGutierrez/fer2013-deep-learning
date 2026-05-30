@@ -3,7 +3,7 @@
 **Group:** Beta  
 **Authors:** Eric Amargant, Eya Ben Said, Marc Bosch Manzano  
 **Professor:** Laia Tarrés Benet  
-**Course:** Aprenentatge Profund 2025-26, Universitat Pompeu Fabra  
+**Course:** Deep Learning 2025-26, Universitat Pompeu Fabra  
 
 ---
 
