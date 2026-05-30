@@ -1,4 +1,4 @@
-# Facial Expression Recognition (FER) — Aprenentatge Profund 2025-26
+# Facial Expression Recognition (FER) — Deep Learning 2025-26
 
 **Group:** Beta  
 **Authors:** Eric Amargant, Eya Ben Said, Marc Bosch Manzano  
