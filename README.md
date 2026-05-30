@@ -29,10 +29,13 @@ The goal is to quantify the benefit of transfer learning on a noisy real-world b
 ---
 
 ## Project Structure
+
+```
 fer2013-deep-learning/
 │
 ├── Final_project.ipynb   # Main notebook with all code
 └── README.md             # This file
+```
 
 ---
 
