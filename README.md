@@ -33,8 +33,10 @@ The goal is to quantify the benefit of transfer learning on a noisy real-world b
 ```
 fer2013-deep-learning/
 │
-├── Final_project.ipynb   # Main notebook with all code
-└── README.md             # This file
+├── Final_project.ipynb                  # Main notebook with all code
+├── team_beta_project_report.pdf         # Written report
+├── team_beta_project_presentation.pptx  # Presentation slides
+└── README.md                            # This file
 ```
 
 ---
