@@ -35,7 +35,7 @@ fer2013-deep-learning/
 │
 ├── Final_project.ipynb                  # Main notebook with all code
 ├── team_beta_project_report.pdf         # Written report
-├── team_beta_project_presentation.pptx  # Presentation slides
+├── team_beta_project_presentation.pdf  # Presentation slides
 └── README.md                            # This file
 ```
 
